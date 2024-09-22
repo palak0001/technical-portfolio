@@ -8696,6 +8696,9 @@ h1, h2, h3, h4, h5,
         color: #ffbd39; }
         .slider-text .breadcrumbs span a:hover i, .slider-text .breadcrumbs span a:focus i {
           color: #ffbd39; }
+.centre{
+            padding-left: 475px;
+          }
 
 .slider-text .bread {
   font-weight: 700;
